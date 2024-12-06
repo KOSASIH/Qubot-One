@@ -3,7 +3,7 @@ A cutting-edge project focused on developing quantum-powered robotics (Qubots) t
 
 ## Overview
 
-**Qubot-One** is the pinnacle of technological advancement, representing the most super super advanced project in the universe focused on the development of quantum-powered robotics, known as Qubots. This groundbreaking initiative integrates the unparalleled capabilities of quantum computing with cutting-edge artificial intelligence to create hyper-intelligent, adaptable, and efficient robotic systems. Our vision is to transcend the limits of current technology and redefine the future of human-robot collaboration.
+**Qubot-One** is the pinnacle of technological advancement, representing the most super super advanced high-tech project focused on the development of quantum-powered robotics, known as Qubots. This groundbreaking initiative integrates the unparalleled capabilities of quantum computing with cutting-edge artificial intelligence to create hyper-intelligent, adaptable, and efficient robotic systems. Our vision is to transcend the limits of current technology and redefine the future of human-robot collaboration.
 
 ## Features
 
