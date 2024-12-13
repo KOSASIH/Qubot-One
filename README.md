@@ -6,6 +6,16 @@
 [![Google Cloud Certified - Professional Cloud Architect](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-blue.svg)](https://cloud.google.com/certification/cloud-architect)
 [![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-blue.svg)](https://www.cncf.io/certification/cka/)
 [![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-green.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--601-yellow.svg)](https://www.comptia.org/certifications/security)
+[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco%20Certified%20Network%20Associate-CCNA-0072C6.svg)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-ISC%20%26%20CISSP%20Certified-blue.svg)](https://www.isc2.org/certifications/cissp)
+[![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified%20Developer-Associate-orange.svg)](https://aws.amazon.com/certification/certified-developer-associate/)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-blue.svg)](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+[![Google Cloud Certified - Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Data%20Engineer-blue.svg)](https://cloud.google.com/certification/data-engineer)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-ISACA%20Certified-blue.svg)](https://www.isaca.org/credentialing/cism)
+[![Certified ScrumMaster (CSM)](https://img.shields.io/badge/Certified%20ScrumMaster-CSM-green.svg)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
+[![PMP - Project Management Professional](https://img.shields.io/badge/PMP-Project%20Management%20Professional-blue.svg)](https://www.pmi.org/certifications/project-management-pmp)
+[![Oracle Certified Professional, Java SE](https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%20SE%20Developer-blue.svg)](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Qubot-One">Qubot One</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
