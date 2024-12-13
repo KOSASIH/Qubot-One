@@ -1,3 +1,12 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-orange.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Microsoft Certified: Azure Developer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue.svg)](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+[![Google Cloud Certified - Professional Cloud Architect](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-blue.svg)](https://cloud.google.com/certification/cloud-architect)
+[![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator-CKA-blue.svg)](https://www.cncf.io/certification/cka/)
+[![Certified Ethical Hacker](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-green.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Qubot-One">Qubot One</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 ![Qubot](docs/images/qubot.jpg) 
