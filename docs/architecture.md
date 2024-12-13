@@ -18,7 +18,7 @@ The architecture of Qubot-One is designed to be modular, scalable, and flexible,
 
 ## Architectural Diagram
 
-![Architecture Diagram](qubot_one_diagram.jpeg)
+![Architecture Diagram](qubot-one-diagram.jpeg)
 
 
 ## Interaction Flow
